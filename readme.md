@@ -1,1 +1,1 @@
-# http://www.bezire.ru/
+# http://www.bezire.ru
