@@ -1,0 +1,48 @@
+<svg id="Группа_1" data-name="Группа 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="263" height="86" viewBox="0 0 263 86">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 58.333px;
+        opacity: 0.93;
+        filter: url(#filter);
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        fill: #fff;
+        font-family: "Bell MT";
+      }
+
+      .cls-2 {
+        font-size: 155.382px;
+        filter: url(#filter-2);
+      }
+
+      .cls-3 {
+        font-size: 41.667px;
+        filter: url(#filter-3);
+      }
+    </style>
+    <filter id="filter" x="12" y="14" width="199" height="39" filterUnits="userSpaceOnUse">
+      <feFlood result="flood" flood-color="#b80c0c"/>
+      <feComposite result="composite" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend" in2="SourceGraphic"/>
+    </filter>
+    <filter id="filter-2" x="93" y="13" width="38" height="39" filterUnits="userSpaceOnUse">
+      <feImage preserveAspectRatio="none" x="93" y="13" width="38" height="39" result="image" xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB3aWR0aD0iMzgiIGhlaWdodD0iMzkiIHZpZXdCb3g9IjAgMCAzOCAzOSI+CiAgPGRlZnM+CiAgICA8c3R5bGU+CiAgICAgIC5jbHMtMSB7CiAgICAgICAgZmlsbDogdXJsKCNsaW5lYXItZ3JhZGllbnQpOwogICAgICB9CiAgICA8L3N0eWxlPgogICAgPGxpbmVhckdyYWRpZW50IGlkPSJsaW5lYXItZ3JhZGllbnQiIHkxPSIyMC44MjkiIHgyPSIzOCIgeTI9IjE4LjE3MSIgZ3JhZGllbnRVbml0cz0idXNlclNwYWNlT25Vc2UiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAuMTg1IiBzdG9wLWNvbG9yPSIjYmExYTFhIi8+CiAgICAgIDxzdG9wIG9mZnNldD0iMC44MTUiIHN0b3AtY29sb3I9IiNkN2Q3ZDciLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgPC9kZWZzPgogIDxyZWN0IGNsYXNzPSJjbHMtMSIgd2lkdGg9IjM4IiBoZWlnaHQ9IjM5Ii8+Cjwvc3ZnPgo="/>
+      <feComposite result="composite" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend" in2="SourceGraphic"/>
+      <feFlood result="flood" flood-color="#e8dada"/>
+      <feComposite result="composite-2" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend-2" in2="blend"/>
+    </filter>
+    <filter id="filter-3" x="74" y="69" width="168" height="17" filterUnits="userSpaceOnUse">
+      <feFlood result="flood" flood-color="#e8dada"/>
+      <feComposite result="composite" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend" in2="SourceGraphic"/>
+    </filter>
+  </defs>
+  <image id="Слой_0" data-name="Слой 0" x="-259" y="-102" width="243" height="81" xlink:href="data:img/png;base64,iVBORw0KGgoAAAANSUhEUgAAAPMAAABRCAYAAAAHIpDaAAABBklEQVR4nO3TAQ3AMADDsH78Oe84FtkUonzb7oDnHQmhwcwQYWaIMDNEmBkizAwRZoYIM0OEmSHCzBBhZogwM0SYGSLMDBFmhggzQ4SZIcLMEGFmiDAzRJgZIswMEWaGCDNDhJkhwswQYWaIMDNEmBkizAwRZoYIM0OEmSHCzBBhZogwM0SYGSLMDBFmhggzQ4SZIcLMEGFmiDAzRJgZIswMEWaGCDNDhJkhwswQYWaIMDNEmBkizAwRZoYIM0OEmSHCzBBhZogwM0SYGSLMDBFmhggzQ4SZIcLMEGFmiDAzRJgZIswMEWaGCDNDhJkhwswQYWaIMDNEmBkizAwRZoYIM0PBth9ZrAGhgaRO0AAAAABJRU5ErkJggg=="/>
+  <text id="BESIRE" class="cls-1" x="9.5" y="52.069">BESIRE</text>
+  <text id="Z" class="cls-2" transform="matrix(0.408, -0.016, 0.042, 0.373, 92.926, 51.641)">Z</text>
+  <text id="JEWELLERY" class="cls-3" transform="translate(74 86.089) scale(0.677 0.617)">JEWELLERY</text>
+</svg>

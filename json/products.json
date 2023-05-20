@@ -1,0 +1,67 @@
+{
+	"products": [
+		{
+			"id": 5,
+			"url": "#",
+			"title": "Кольцо",
+			"text": "Кольцо со стальной бусиной.<br> Арт 214657",
+			"labels": "",
+			"image": "05-min.jpg",
+			"price": "1 500 руб",
+			"priceOld": "",
+			"shareUrl": "",
+			"likeUrl": ""
+		},
+		{
+			"id": 6,
+			"url": "#",
+			"title": "Перстень",
+			"text": "Лиловый перстень. <br> Арт 132208",
+			"labels": [
+				
+				{
+					"type": "new",
+					"value": "New"
+				}
+			],
+			"image": "06.jpg",
+			"price": "1 500 руб",
+			
+			"shareUrl": "",
+			"likeUrl": ""
+		},
+		{
+			"id": 7,
+			"url": "#",
+			"title": "Перстень",
+			"text": "Перстень с черным цветком.<br> Арт 133651",
+			
+			"image": "07-min.jpg",
+			"price": "2 300 руб",
+			
+			"shareUrl": "",
+			"likeUrl": ""
+		},
+		{
+			"id": 8,
+			"url": "#",
+			"title": "Кольцо",
+			"text": "Находится в работе",
+			"labels": [
+				{
+					"type": "new",
+					"value": "New"
+				}
+			],
+			"image": "08-min.jpg",
+			"price": "0",
+			"priceOld": "",
+			"shareUrl": "",
+			"likeUrl": ""
+		}
+		
+	]
+	
+}
+
+
