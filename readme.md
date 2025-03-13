@@ -1,1 +1,1 @@
-# http://www.bezire.ru
+# https://farhadsite.ru/bezire
